@@ -1,0 +1,12 @@
+{
+  "name": "bsma3b-class-funds",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9"
+  }
+}
